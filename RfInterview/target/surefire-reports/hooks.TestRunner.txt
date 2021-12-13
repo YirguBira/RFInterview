@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: hooks.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.771 s <<< FAILURE! - in hooks.TestRunner
+Validate that when the player clicks a checker, the checker is highlighted(Game of the Brain)  Time elapsed: 0.029 s  <<< ERROR!
+cucumber.api.PendingException: TODO: implement me
+
